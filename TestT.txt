@@ -1,3 +1,5 @@
-branch 1 1234
-conflict 123
-
+It
+is
+the
+main
+file
