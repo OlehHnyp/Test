@@ -1,14 +1,2 @@
-
-It
-is
-the
-main
-file
-
-
-Main
-file
-on
-serveror
-1111
-
+=======
+delete
